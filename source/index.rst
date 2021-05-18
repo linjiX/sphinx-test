@@ -7,7 +7,7 @@ Welcome to sphinx-test's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: asd
    :caption: Contents:
 
 
